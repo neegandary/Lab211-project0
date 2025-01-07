@@ -1,0 +1,5 @@
+C001, Tran Gia Hong, Tra Vinh, 20/02/2021, 20000.00
+C002, Do Anh Khoa, Ha noi, 10/08/2023, 16500.00
+C003, Dinh Thu Thuy, Bien Hoa, 14/12/2022, 30000.00
+C004, Nguyen Van An, vinh long, 01/10/2024, 1000.00
+C008, Tran Gia Hong, Can tho, 01/10/2024, 2500.00
