@@ -27,7 +27,7 @@ public class Customer extends User {
     // ----------------------------------------------------------
     @Override
     public void setId(String value) throws Exception {
-        if (!DataValidation.checkStringWithFormat(value.toUpperCase(), "C\\d{3}")) {
+        if (!DataValidation.checkStringWithFormat(value.toUpperCase(), "E\\d{3}")) {
             throw new Exception("Id invalid. The correct format:Exxx, with x is digits");
         }
         this.id = value;

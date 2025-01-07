@@ -33,7 +33,7 @@ public class FileManager {
 
     // ----------------------------------------------------------
     public void saveDataToFile(String data) throws IOException {
-        Files.writeString(Paths.get(fileName), data, Charset.forName("utf-8"));
+        Files.writeString(new File(fileName).toPath(), data, Charset.forName("utf-8"));
     }
     // ----------------------------------------------------------
 

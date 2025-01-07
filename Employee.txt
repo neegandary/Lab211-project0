@@ -1,7 +1,7 @@
 E001, Tran Gia Hong, 01/01/2003, hong@gmail.com, 1500.00
 E002, Do Anh Khoa, 13/04/2002, khoa@hotmail.com, 2500.00
 E003, Dinh Thu Thuy, 21/08/2001, thuy@yahoo.com, 2000.00
-E004, Trần Văn An, 29/12/2002, antv@live.com, 2891.00
+E004, Tran Van An, 29/12/2002, antv@live.com, 2891.00
 E005, Pham Hoang Anh, 12/12/2001, anhdb@gmail.com, 1000.00
 E006, Tran Gia Hong, 12/12/2001, hong@gmail.com, 1000.00
 E007, Dinh The Luan, 01/01/2002, luan@gamail.com, 8300.00
