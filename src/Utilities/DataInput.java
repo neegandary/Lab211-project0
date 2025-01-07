@@ -61,9 +61,8 @@ public class DataInput {
     // ----------------------------------------------------------
     public static String getString() {
         String strInput;
-        try (Scanner sc = new Scanner(System.in)) {
-            strInput = sc.nextLine();
-        }
+        Scanner sc = new Scanner(System.in);
+        strInput = sc.nextLine();
         return strInput;
     }
 
